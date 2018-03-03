@@ -1,0 +1,10 @@
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\bin\Debug\Checador de arquivos.exe.config
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\bin\Debug\Checador de arquivos.exe
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\bin\Debug\Checador de arquivos.pdb
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\obj\Debug\Checador de arquivos.csprojResolveAssemblyReference.cache
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\obj\Debug\Checador_de_arquivos.Form1.resources
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\obj\Debug\Checador_de_arquivos.Properties.Resources.resources
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\obj\Debug\Checador de arquivos.csproj.GenerateResource.Cache
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\obj\Debug\Checador de arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\obj\Debug\Checador de arquivos.exe
+C:\Users\Artur\source\repos\CDAS\Checador de arquivos\obj\Debug\Checador de arquivos.pdb
